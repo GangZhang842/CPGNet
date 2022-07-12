@@ -15,3 +15,6 @@ Official code for [CPGNet](https://arxiv.org/abs/2204.09914)
   organization={IEEE}
 }
 ```
+
+## NEWS
+[2022-02-01] CPGNet is accepted by ICRA 2022
