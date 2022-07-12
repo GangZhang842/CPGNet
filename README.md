@@ -1,9 +1,9 @@
 # CPGNet: Cascade Point-Grid Fusion Network for Real-Time LiDAR Semantic Segmentation
 
-Real-time LiDAR semantic segmentation by fusing features from the 3D points, range view (RV), and bird`s-eye-view (BEV)
+Official code for [CPGNet](https://arxiv.org/abs/2204.09914)
 
 > [**CPGNet: Cascade Point-Grid Fusion Network for Real-Time LiDAR Semantic Segmentation**](https://arxiv.org/abs/2204.09914),
-> Xiaoyan Li, Gang Zhang, Hongyu Pan, Zhenhua Wang
+> Xiaoyan Li, Gang Zhang, Hongyu Pan, Zhenhua Wang.
 > *Accepted by ICRA2022 ([arXiv:2204.09914](https://arxiv.org/abs/2204.09914))*
 
 ```bash
@@ -13,4 +13,4 @@ Real-time LiDAR semantic segmentation by fusing features from the 3D points, ran
   journal={arXiv preprint arXiv:2204.09914},
   year={2022}
 }
-```bash
+```
